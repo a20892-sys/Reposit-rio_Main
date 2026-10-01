@@ -2,3 +2,4 @@
 diogxm_
 Eu sou o diogo e tenho 16 anos
 Este é o meu primeiro projeto no GitHub
+Estou a aprender a utilizar o Git Desktop
